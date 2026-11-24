@@ -7,6 +7,8 @@
 <h3> 담당 역할 : 건설 / 제작 / 기술 해금 / 자원 채집 및 UI </h3>
 <h3> Origin : https://github.com/PJH1998/DC1 </h3>
 
+---
+
 - **기능 설명 및 플레이 영상**
     
     https://youtu.be/AigCyXKp8m4
